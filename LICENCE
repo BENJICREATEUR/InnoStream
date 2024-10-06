@@ -1,0 +1,10 @@
+### Explication de **`README.md`** :
+1. **Description du projet** : Explique les fonctionnalités principales d'InnoStream, y compris la diffusion en direct, le marketplace, et les paiements.
+2. **Instructions** :
+   - **Installation** : Guide l'utilisateur sur comment installer et démarrer le projet.
+   - **Scripts disponibles** : Décrit les commandes clés comme **`npm start`** et **`npm build`**.
+3. **Technologies utilisées** : Liste des technologies et bibliothèques comme React, Redux, Socket.IO, et Stripe.
+
+---
+
+Ces fichiers contiennent les configurations et les informations essentielles pour gérer et développer le frontend d'InnoStream, y compris les outils pour le live streaming, le marketplace, les notifications, et la gestion des paiements.
